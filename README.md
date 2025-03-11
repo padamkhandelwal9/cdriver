@@ -43,6 +43,10 @@ To start the proxy server, run the following command:
 
 ![Image](https://github.com/user-attachments/assets/75101cac-5043-48ee-8815-dfb1553e7f46)
 
+
+![image](https://github.com/user-attachments/assets/d5776cf5-2a62-49a6-a4f1-3fcd5241bbcd)
+
+
 Code Explanation
 proxy_server_with_cache.c
 This file contains the main implementation of the proxy server. Key functions include:

@@ -38,6 +38,11 @@ Running the Proxy Server
 To start the proxy server, run the following command:
 ./proxy <port_number>
 
+
+
+
+![Image](https://github.com/user-attachments/assets/75101cac-5043-48ee-8815-dfb1553e7f46)
+
 Code Explanation
 proxy_server_with_cache.c
 This file contains the main implementation of the proxy server. Key functions include:
@@ -61,6 +66,9 @@ ParsedRequest_unparse: Converts a ParsedRequest object back into an HTTP request
 ParsedHeader_set: Sets a header key-value pair in a ParsedRequest object.
 ParsedHeader_get: Retrieves a header value by key from a ParsedRequest object.
 ParsedHeader_remove: Removes a header key-value pair from a ParsedRequest object.
+
+
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for detail
